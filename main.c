@@ -1,4 +1,4 @@
-// dummy c file
+// program entry point
 
 #include <stdio.h>
 
