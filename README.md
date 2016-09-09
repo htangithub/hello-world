@@ -1,2 +1,2 @@
 # hello-world
-Dummy project to learn github
+Program entry point is main()
